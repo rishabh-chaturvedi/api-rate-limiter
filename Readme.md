@@ -21,7 +21,7 @@ api-rate-limiter = "0.1.1"
 ## Usage
 
 ```rust
-use rate_limiter::limiter::RateLimiter;
+use api_rate_limiter::limiter::RateLimiter;
 use std::time::Duration;
 use std::sync::Arc;
 use std::thread;

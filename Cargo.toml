@@ -2,5 +2,8 @@
 name = "rate-limiter"
 version = "0.1.0"
 edition = "2021"
+description = "A simple rate limiter for Rust APIs"
+license = "MIT"
+repository = "https://github.com/rishabh-chaturvedi/rate-limiter-rust"
 
 [dependencies]

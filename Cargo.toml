@@ -1,10 +1,10 @@
 [package]
 name = "api-rate-limiter"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A simple rate limiter for Rust APIs"
 license = "MIT"
-repository = "https://github.com/rishabh-chaturvedi/rate-limiter-rust"
+repository = "https://github.com/rishabh-chaturvedi/api-rate-limiter"
 readme = "README.md"
 keywords = ["rate-limiter", "api", "rust"]
 categories = ["web-programming", "concurrency"]

@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rate-limiter"
+name = "api-rate-limiter"
 version = "0.1.0"

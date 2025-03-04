@@ -1,5 +1,5 @@
 [package]
-name = "rate-limiter"
+name = "api-rate-limiter"
 version = "0.1.0"
 edition = "2021"
 description = "A simple rate limiter for Rust APIs"

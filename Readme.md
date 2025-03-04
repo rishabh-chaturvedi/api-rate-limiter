@@ -15,7 +15,7 @@ Add the following to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-rate_limiter = "0.1.0"
+api-rate-limiter = "0.1.1"
 ```
 
 ## Usage
@@ -94,5 +94,5 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](license.md) for details.
 

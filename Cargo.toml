@@ -10,3 +10,4 @@ keywords = ["rate-limiter", "api", "rust"]
 categories = ["web-programming", "concurrency"]
 
 [dependencies]
+dashmap = "5"
